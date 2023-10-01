@@ -22,6 +22,10 @@ for(let pop=1;pop<=15;pop++){
     }
     
 }
+///
+
+
+hjjhj
 
 
 
